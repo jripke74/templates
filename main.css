@@ -43,6 +43,14 @@ a {
   text-decoration: none;
 }
 
+/* COVER */
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50vh;
+}
+
 .green {
   background-color: #56b870;
 }
